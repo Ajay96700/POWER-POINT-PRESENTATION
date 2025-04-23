@@ -1,6 +1,6 @@
 ## Optimized Hiring Strategies for Full-Stack Engineers
 
-![Image](Hiring Image.jpg)
+![Image](https://github.com/Ajay96700/POWER-POINT-PRESENTATION/blob/main/Hiring%20Image.jpg)
 
 # Objective
 
