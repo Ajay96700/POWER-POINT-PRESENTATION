@@ -17,5 +17,6 @@ A company is searching for software engineers for an upcoming project. They are 
  - Recommendation
 
 
+# Here's How I calculated percentage for skill appearance
 
-
+I created a simple Excel table to tally the frequency of each skill, then calculated the percentages and rounded them to make it easy to interpret
