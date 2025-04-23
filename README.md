@@ -1,5 +1,7 @@
 ## Optimized Hiring Strategies for Full-Stack Engineers
 
+![Image](Hiring Image.jpg)
+
 # Objective
 
 A company is searching for software engineers for an upcoming project. They are struggling to find the right person for the position. This insights will help them optimize hiring decisions.
